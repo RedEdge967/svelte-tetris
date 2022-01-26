@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+p {
+  font-family: "Roboto Mono", monospace;
+  color: hsl(198, 52%, 95%);
+}
