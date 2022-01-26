@@ -23,7 +23,7 @@
 </style>
 
 <main class="main">
-  <a href="https://github.com/roeeyn/SvelteTetris" target="_blank">
+  <a href="https://github.com/RedEdge967/svelte-tetris" target="_blank">
     <img src="./corner.svg" alt="fork in GitHub" />
   </a>
   <GameConsole />
