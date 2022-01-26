@@ -24,7 +24,7 @@
 
 <main class="main">
   <a href="https://github.com/RedEdge967/svelte-tetris" target="_blank">
-    <img src="./corner.svg" alt="fork in GitHub" />
+    <img src="./corner.svg" alt="view and fork this in GitHub" />
   </a>
   <GameConsole />
   <Instructions />
